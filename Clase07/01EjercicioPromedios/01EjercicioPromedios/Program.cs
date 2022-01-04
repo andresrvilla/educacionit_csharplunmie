@@ -61,7 +61,7 @@ namespace _01EjercicioPromedios
 
             Console.WriteLine("El alumno " + nombre + " tiene " + (suma / cantidad) + " de promedio.");
             Console.WriteLine("El alumno " + nombre + " tiene " + minimo + " de nota minima.");
-            Console.WriteLine("El alumno " + nombre + " tiene " + maximo + " de nota maxima.");
+            Console.WriteLine("El alumno " + nombre + " tiene " + maximo + " de nota maxima  .");
 
             Console.ReadKey();
         }
